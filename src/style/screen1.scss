@@ -1,0 +1,68 @@
+.screen1 {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+  
+    background-image: url("../images/award_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    >.content{
+      width: 100%;
+      height: 40%;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+  
+      >img{
+        width:10rem;
+        text-align: center;
+        margin-right: 3rem;
+      }
+      >h2{
+        color: wheat;
+        font-size: 1.5rem;
+        text-align: center;
+      }
+    }
+  
+    >.girl{
+      width: 100%;
+      height: 40%;
+  
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+      >img:nth-child(1){
+        width:15rem;
+        z-index: 1;
+        margin-bottom: -5rem;
+      }
+  
+      >img:nth-child(2){
+        width:3rem;
+        height:3rem;
+
+        &:hover{
+          cursor: pointer;
+        }
+      }
+  
+    }
+  
+    >.stage{
+      width: 100%;
+      height: 20%;
+  
+      >img{
+        width:100%;
+        height: 100%;
+      }
+    }
+  
+  
+  }
+  
+  
