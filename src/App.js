@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path='/' element={<Screen1/>} />
+        <Route path='/Assignment1' element={<Screen1/>} />
         <Route path='/screen2' element={<Screen2/> } />
         <Route path='/screen3' element={<Screen3/> } />
       </Routes>
