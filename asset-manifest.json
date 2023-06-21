@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Assignment1/static/css/main.e23a3f97.css",
+    "main.js": "/Assignment1/static/js/main.5458931e.js",
+    "static/media/avtar2.png": "/Assignment1/static/media/avtar2.1479b0e686aa8bfd65d3.png",
+    "static/media/girlClap.png": "/Assignment1/static/media/girlClap.1838bda6d0283d588fcb.png",
+    "static/media/main-heart.png": "/Assignment1/static/media/main-heart.7b5a6d196216ffb89a33.png",
+    "static/media/award_bg.png": "/Assignment1/static/media/award_bg.58ddf3af7a7b04ba0142.png",
+    "static/media/castingLogo.png": "/Assignment1/static/media/castingLogo.d396d72ea7891ba3a1e2.png",
+    "static/media/awardPlatform.png": "/Assignment1/static/media/awardPlatform.4d248b2fb2f980c948ee.png",
+    "static/media/arrow.png": "/Assignment1/static/media/arrow.cd8beeb8f367a74c45e9.png",
+    "index.html": "/Assignment1/index.html",
+    "main.e23a3f97.css.map": "/Assignment1/static/css/main.e23a3f97.css.map",
+    "main.5458931e.js.map": "/Assignment1/static/js/main.5458931e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e23a3f97.css",
+    "static/js/main.5458931e.js"
+  ]
+}
